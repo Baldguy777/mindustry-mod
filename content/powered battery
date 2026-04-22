@@ -1,0 +1,18 @@
+{
+	"localizedName": "Powered Battery",
+	"type": "Battery",
+	"size": "3",
+	"description": "better battery",
+	"hasPower": true,
+	"consumes": {
+		"powerBuffered": 80000
+	},
+	"category": "power",
+	"research": "battery",
+	"requirements": [
+		{ "item": "lead", "amount": 25 },
+		{ "item": "titanium", "amount": 20 },
+    { "item": "silicon", "amount": 20 },
+		{ "item": "surge-alloy", "amount": 20 }
+	]
+}
