@@ -1,7 +1,8 @@
 {
-    "name": "My First Mod",
-    "author": "Takenoko0141",
-    "description": "No description.",
-    "version": "1.0",
-    "minGameVersion": "126"
+  "name": "waa",
+  "displayName": "waa",
+  "author": "takenoko0141",
+  "description": "wow no description",
+  "version": "1.0",
+  "minGameVersion": "146"
 }
