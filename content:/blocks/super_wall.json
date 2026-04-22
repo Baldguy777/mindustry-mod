@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "name": "スーパー壁",
+  "description": "とても硬い壁です。",
+  "health": 2000,
+  "size": 1,
+  "requirements": [
+    { "item": "copper", "amount": 20 }
+  ],
+  "category": "defense"
+}
